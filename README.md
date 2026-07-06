@@ -1,4 +1,9 @@
 # Active Directory Home Lab
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active_Directory-AD_DS-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-orange)
+![Jira](https://img.shields.io/badge/Jira-Service_Management-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## Overview
 
