@@ -259,11 +259,6 @@ Future enhancements planned for this lab include:
 
 ---
 
-# Screenshots
-
-Screenshots documenting each phase of the project are available in the `/screenshots` directory.
-
----
 
 # Documentation
 
