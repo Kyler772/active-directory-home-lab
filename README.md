@@ -270,6 +270,6 @@ Detailed project documentation, ticket write-ups, and supporting materials are a
 
 Kyler Watson
 
-Computer Science Graduate 
+UAH Computer Science Graduate 
 
 Aspiring IT Support / Systems Administrator
