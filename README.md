@@ -262,7 +262,7 @@ Future enhancements planned for this lab include:
 
 # Documentation
 
-Detailed project documentation, ticket write-ups, and supporting materials are available in the `/docs` directory.
+Detailed project documentation, ticket write-ups, and supporting materials are available in the Active Directory pdf.
 
 ---
 
